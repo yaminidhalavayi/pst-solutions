@@ -16,7 +16,7 @@ Direct links to my profiles and problem solutions.
 
 ## HackerRank Solutions
 | # | Problem Title |  Solution / Link |
-|---|---------------|------------|-----------------|
+|---|---------------|-----------------|
 |1 |Java Lambda Expressions|[Problem Statement](https://www.hackerrank.com/challenges/java-lambda-expressions/problem) |
 |2 | java-sort|[Problem Statement](https://www.hackerrank.com/challenges/java-sort/problem) |
 |3 |Sorting Comparator|[Problem Statement](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) |
