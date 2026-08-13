@@ -15,8 +15,9 @@ Direct links to my profiles and problem solutions.
 | 5| Find Pivot Index | Easy | [Problem Link](https://leetcode.com/problems/find-pivot-index/description/) |
 
 ## HackerRank Solutions
-
-1 Java Lambda Expressions:[Problem Statement](https://www.hackerrank.com/challenges/java-lambda-expressions/problem) |
-2 java-sort:[Problem Statement](https://www.hackerrank.com/challenges/java-sort/problem) |
-3 Sorting: Comparator:[Problem Statement](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) |
-4 java-comparator:[Problem Statement](https://www.hackerrank.com/challenges/java-comparator/problem) |
+| # | Problem Title |  Solution / Link |
+|---|---------------|------------|-----------------|
+|1 |Java Lambda Expressions|[Problem Statement](https://www.hackerrank.com/challenges/java-lambda-expressions/problem) |
+|2 | java-sort|[Problem Statement](https://www.hackerrank.com/challenges/java-sort/problem) |
+|3 |Sorting Comparator|[Problem Statement](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) |
+|4| java-comparator|[Problem Statement](https://www.hackerrank.com/challenges/java-comparator/problem) |
