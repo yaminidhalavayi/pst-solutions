@@ -25,9 +25,7 @@ Direct links to my profiles and problem solutions.
 | 15 | day-of-the-year | Easy | [Problem & Submission](https://leetcode.com/problems/day-of-the-year/description/) |
 | 16|  day-of-the-week | Easy | [Problem Link](https://leetcode.com/problems/day-of-the-week/description/) |
 | 17 | largest-number | Easy | [Problem & Submission](https://leetcode.com/problems/largest-number/description/) |
-| 4| squares-of-a-sorted-array| Easy | [Problem Link](https://leetcode.com/problems/squares-of-a-sorted-array/description/) |
-| 5| Find Pivot Index | Easy | [Problem Link](https://leetcode.com/problems/find-pivot-index/description/) |
-
+| 18| sort-the-people| Easy | [Problem Link](https://leetcode.com/problems/sort-the-people/description/) |
 
 ## HackerRank Solutions
 | # | Problem Title |  Solution / Link |
