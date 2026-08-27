@@ -13,6 +13,7 @@ Direct links to my profiles and problem solutions.
 | 3 | Richest Customer Wealth | Easy | [Problem & Submission](https://leetcode.com/problems/richest-customer-wealth/description/) |
 | 4| squares-of-a-sorted-array| Easy | [Problem Link](https://leetcode.com/problems/squares-of-a-sorted-array/description/) |
 | 5| Find Pivot Index | Easy | [Problem Link](https://leetcode.com/problems/find-pivot-index/description/) |
+| 6| build-array-from-permutation | Easy | [Problem Link](https://leetcode.com/problems/build-array-from-permutation/description/) |
 
 ## HackerRank Solutions
 | # | Problem Title |  Solution / Link |
