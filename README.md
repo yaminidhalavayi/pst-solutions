@@ -21,10 +21,10 @@ Direct links to my profiles and problem solutions.
 | 11| find-the-highest-altitude| Easy | [Problem Link](https://leetcode.com/problems/find-the-highest-altitude/description/) |
 | 12| group-anagrams | Easy | [Problem Link](https://leetcode.com/problems/group-anagrams/description/) |
 | 13 |top-k-frequent-elements| Easy | [Problem Link](https://leetcode.com/problems/top-k-frequent-elements/description/) |
-| 6| build-array-from-permutation | Easy | [Problem Link](https://leetcode.com/problems/build-array-from-permutation/description/) |
-| 1 | sort-array-by-parity | Easy | [Problem & Submission](https://leetcode.com/problems/sort-array-by-parity/description/) |
-| 2|  Running Sum of 1D Array | Easy | [Problem Link](https://leetcode.com/problems/running-sum-of-1d-array/description/) |
-| 3 | Richest Customer Wealth | Easy | [Problem & Submission](https://leetcode.com/problems/richest-customer-wealth/description/) |
+| 14| number-of-days-between-two-dates | Easy | [Problem Link](https://leetcode.com/problems/number-of-days-between-two-dates/description/) |
+| 15 | day-of-the-year | Easy | [Problem & Submission](https://leetcode.com/problems/day-of-the-year/description/) |
+| 16|  day-of-the-week | Easy | [Problem Link](https://leetcode.com/problems/day-of-the-week/description/) |
+| 17 | largest-number | Easy | [Problem & Submission](https://leetcode.com/problems/largest-number/description/) |
 | 4| squares-of-a-sorted-array| Easy | [Problem Link](https://leetcode.com/problems/squares-of-a-sorted-array/description/) |
 | 5| Find Pivot Index | Easy | [Problem Link](https://leetcode.com/problems/find-pivot-index/description/) |
 
@@ -39,4 +39,6 @@ Direct links to my profiles and problem solutions.
 |5|java-dequeue|[Problem Statement](https://www.hackerrank.com/challenges/java-dequeue/problem) |
 |6 | java-hashset|[Problem Statement](https://www.hackerrank.com/challenges/java-hashset/problem)|
 |7 |java-date-and-time|[Problem Statement](https://www.hackerrank.com/challenges/java-date-and-time/problem) |
-|4| java-comparator|[Problem Statement](https://www.hackerrank.com/challenges/java-comparator/problem) |
+|8| java-priority-queue|[Problem Statement](https://www.hackerrank.com/challenges/java-priority-queue/problem) |
+|9 | java-arraylist|[Problem Statement](https://www.hackerrank.com/challenges/java-arraylist/problem) |
+|10| java-comparator|[Problem Statement](https://www.hackerrank.com/challenges/java-comparator/problem) |
