@@ -8,7 +8,7 @@ Direct links to my profiles and problem solutions.
 ## LeetCode Solutions
 | # | Problem Title | Difficulty | Solution / Link |week|
 |---|---------------|------------|-----------------|-----|
-| 1 | sort-array-by-parity | Easy | [Problem & Submission](https://leetcode.com/problems/sort-array-by-parity/description/) 
+| 1 | sort-array-by-parity | Easy | [Problem & Submission](https://leetcode.com/problems/sort-array-by-parity/description/)|w1|
 | 2|  Running Sum of 1D Array | Easy | [Problem Link](https://leetcode.com/problems/running-sum-of-1d-array/description/) |
 | 3 | Richest Customer Wealth | Easy | [Problem & Submission](https://leetcode.com/problems/richest-customer-wealth/description/) |
 | 4| squares-of-a-sorted-array| Easy | [Problem Link](https://leetcode.com/problems/squares-of-a-sorted-array/description/) |
