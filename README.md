@@ -42,8 +42,12 @@ Direct links to my profiles and problem solutions.
 | 32| find-all-anagrams-in-a-string | Easy | [Problem Link](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) |2|
 | 33 | find-the-index-of-the-first-occurrence-in-a-string | Easy | [Problem & Submission](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) |2|
 | 34| longest-palindromic-substring | Easy | [Problem Link](https://leetcode.com/problems/longest-palindromic-substring/description/) |2|
-| 17 | largest-number | Easy | [Problem & Submission](https://leetcode.com/problems/largest-number/description/) |2|
-| 18| sort-the-people| Easy | [Problem Link](https://leetcode.com/problems/sort-the-people/description/) |2|
+| 35| design-parking-system | Easy | [Problem & Submission](https://leetcode.com/problems/design-parking-system/description/) |2|
+| 36| design-browser-history| Easy | [Problem Link](https://leetcode.com/problems/design-browser-history/description/) |2|
+| 37| design-hashset| Easy | [Problem Link](https://leetcode.com/problems/design-hashset/description/) |1|
+| 8| remove-element | Easy | [Problem & Submission](https://leetcode.com/problems/remove-element/description/) |1|
+| 9|  remove-duplicates-from-sorted-array| Easy | [Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |1|
+| 10| maximum-subarray| Easy | [Problem & Submission](http://leetcode.com/problems/maximum-subarray/description/) |1|
 
 
 ## HackerRank Solutions
@@ -71,7 +75,7 @@ Direct links to my profiles and problem solutions.
 |20|mars-exploration|[Problem Statement](https://www.hackerrank.com/challenges/mars-exploration/problem) |1|
 |21 |palindrome-index|[Problem Statement](https://www.hackerrank.com/challenges/palindrome-index/problem) |1|
 |22 | circular-palindromes|[Problem Statement](https://www.hackerrank.com/challenges/circular-palindromes/problem) |2|
-|3 |Sorting Comparator|[Problem Statement](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) |1|
+|23 java-instanceof-keyword|[Problem Statement](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem) |1|
 |4| java-comparator|[Problem Statement](https://www.hackerrank.com/challenges/java-comparator/problem) |1|
 |5|java-dequeue|[Problem Statement](https://www.hackerrank.com/challenges/java-dequeue/problem) |1|
 |6 | java-hashset|[Problem Statement](https://www.hackerrank.com/challenges/java-hashset/problem)|1|
