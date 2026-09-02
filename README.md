@@ -69,4 +69,14 @@ Direct links to my profiles and problem solutions.
 |18| string-similarity|[Problem Statement](https://www.hackerrank.com/challenges/string-similarity/problem) |1|
 |19 |two-strings|[Problem Statement](https://www.hackerrank.com/challenges/two-strings/problem) |1|
 |20|mars-exploration|[Problem Statement](https://www.hackerrank.com/challenges/mars-exploration/problem) |1|
+|21 |palindrome-index|[Problem Statement](https://www.hackerrank.com/challenges/palindrome-index/problem) |1|
+|22 | circular-palindromes|[Problem Statement](https://www.hackerrank.com/challenges/circular-palindromes/problem) |2|
+|3 |Sorting Comparator|[Problem Statement](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) |1|
+|4| java-comparator|[Problem Statement](https://www.hackerrank.com/challenges/java-comparator/problem) |1|
+|5|java-dequeue|[Problem Statement](https://www.hackerrank.com/challenges/java-dequeue/problem) |1|
+|6 | java-hashset|[Problem Statement](https://www.hackerrank.com/challenges/java-hashset/problem)|1|
+|7 |java-date-and-time|[Problem Statement](https://www.hackerrank.com/challenges/java-date-and-time/p1roblem) |1|
+|8| java-priority-queue|[Problem Statement](https://www.hackerrank.com/challenges/java-priority-queue/problem) |1|
+|9 | java-arraylist|[Problem Statement](https://www.hackerrank.com/challenges/java-arraylist/problem) |1|
+|10| java-comparator|[Problem Statement](https://www.hackerrank.com/challenges/java-comparator/problem) |1|
 
