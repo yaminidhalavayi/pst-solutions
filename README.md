@@ -75,7 +75,7 @@ Direct links to my profiles and problem solutions.
 |20|mars-exploration|[Problem Statement](https://www.hackerrank.com/challenges/mars-exploration/problem) |1|
 |21 |palindrome-index|[Problem Statement](https://www.hackerrank.com/challenges/palindrome-index/problem) |1|
 |22 | circular-palindromes|[Problem Statement](https://www.hackerrank.com/challenges/circular-palindromes/problem) |2|
-|23 java-instanceof-keyword|[Problem Statement](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem) |1|
+|23 |java-instanceof-keyword|[Problem Statement](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem) |1|
 |4| java-comparator|[Problem Statement](https://www.hackerrank.com/challenges/java-comparator/problem) |1|
 |5|java-dequeue|[Problem Statement](https://www.hackerrank.com/challenges/java-dequeue/problem) |1|
 |6 | java-hashset|[Problem Statement](https://www.hackerrank.com/challenges/java-hashset/problem)|1|
