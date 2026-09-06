@@ -75,12 +75,22 @@ Direct links to my profiles and problem solutions.
 |20|mars-exploration|[Problem Statement](https://www.hackerrank.com/challenges/mars-exploration/problem) |1|
 |21 |palindrome-index|[Problem Statement](https://www.hackerrank.com/challenges/palindrome-index/problem) |1|
 |22 | circular-palindromes|[Problem Statement](https://www.hackerrank.com/challenges/circular-palindromes/problem) |2|
-|23 |java-instanceof-keyword|[Problem Statement](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem) |1|
-|24| grading|[Problem Statement](https://www.hackerrank.com/challenges/grading/problem) |1|
+|23 |java-instanceof-keyword|[Problem Statement](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem) |3|
+|24| grading|[Problem Statement](https://www.hackerrank.com/challenges/grading/problem) |3|
 |25|java-inheritance-1|[Problem Statement](https://www.hackerrank.com/challenges/java-inheritance-1/problem) |1|
-|6 | java-hashset|[Problem Statement](https://www.hackerrank.com/challenges/java-hashset/problem)|1|
-|7 |java-date-and-time|[Problem Statement](https://www.hackerrank.com/challenges/java-date-and-time/p1roblem) |1|
-|8| java-priority-queue|[Problem Statement](https://www.hackerrank.com/challenges/java-priority-queue/problem) |1|
-|9 | java-arraylist|[Problem Statement](https://www.hackerrank.com/challenges/java-arraylist/problem) |1|
-|10| java-comparator|[Problem Statement](https://www.hackerrank.com/challenges/java-comparator/problem) |1|
+|26 | java-inheritance-2|[Problem Statement](https://www.hackerrank.com/challenges/java-inheritance-2/problem)|1|
+|27|java-generics|[Problem Statement](https://www.hackerrank.com/challenges/java-generics/problem) |1|
+|28| java-method-overriding|[Problem Statement](https://www.hackerrank.com/challenges/java-method-overriding/problem) |1|
+|29 | java-method-overriding-2|[Problem Statement](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem) |1|
+|30|java-singleton|[Problem Statement](https://www.hackerrank.com/challenges/java-singleton/problem) |1|
+|31 |java-vistor-pattern|[Problem Statement](https://www.hackerrank.com/challenges/java-vistor-pattern/problem) |1|
+|32 | java-iterator|[Problem Statement](https://www.hackerrank.com/challenges/java-iterator/problem) |2|
+|33 |java-interface|[Problem Statement](https://www.hackerrank.com/challenges/java-interface/problem) |1|
+|34|java-hashset|[Problem Statement](https://www.hackerrank.com/challenges/java-hashset/problem) |1|
+|35|java-factory|[Problem Statement](https://www.hackerrank.com/challenges/java-factory/problem) |1|
+|36 |java-exception-handling|[Problem Statement](https://www.hackerrank.com/challenges/java-exception-handling/problem)|1|
+|37|java-exception-handling|[Problem Statement](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem) |1|
+|28| java-method-overriding|[Problem Statement](https://www.hackerrank.com/challenges/java-method-overriding/problem) |1|
+|29 | java-method-overriding-2|[Problem Statement](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem) |1|
+|30|java-singleton|[Problem Statement](https://www.hackerrank.com/challenges/java-singleton/problem) |1|
 
