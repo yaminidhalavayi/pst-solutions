@@ -89,7 +89,7 @@ Direct links to my profiles and problem solutions.
 |34|java-hashset|[Problem Statement](https://www.hackerrank.com/challenges/java-hashset/problem) |1|
 |35|java-factory|[Problem Statement](https://www.hackerrank.com/challenges/java-factory/problem) |1|
 |36 |java-exception-handling|[Problem Statement](https://www.hackerrank.com/challenges/java-exception-handling/problem)|1|
-|37|java-exception-handling|[Problem Statement](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem) |1|
+|37|java-exception-handling-try catch|[Problem Statement](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem) |1|
 |28| java-method-overriding|[Problem Statement](https://www.hackerrank.com/challenges/java-method-overriding/problem) |1|
 |29 | java-method-overriding-2|[Problem Statement](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem) |1|
 |30|java-singleton|[Problem Statement](https://www.hackerrank.com/challenges/java-singleton/problem) |1|
