@@ -42,12 +42,12 @@ Direct links to my profiles and problem solutions.
 | 32| find-all-anagrams-in-a-string | Easy | [Problem Link](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) |2|
 | 33 | find-the-index-of-the-first-occurrence-in-a-string | Easy | [Problem & Submission](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) |2|
 | 34| longest-palindromic-substring | Easy | [Problem Link](https://leetcode.com/problems/longest-palindromic-substring/description/) |2|
-| 35| design-parking-system | Easy | [Problem & Submission](https://leetcode.com/problems/design-parking-system/description/) |2|
-| 36| design-browser-history| Easy | [Problem Link](https://leetcode.com/problems/design-browser-history/description/) |2|
-| 37| design-hashset| Easy | [Problem Link](https://leetcode.com/problems/design-hashset/description/) |1|
-| 8| remove-element | Easy | [Problem & Submission](https://leetcode.com/problems/remove-element/description/) |1|
-| 9|  remove-duplicates-from-sorted-array| Easy | [Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |1|
-| 10| maximum-subarray| Easy | [Problem & Submission](http://leetcode.com/problems/maximum-subarray/description/) |1|
+| 35| design-parking-system | Easy | [Problem & Submission](https://leetcode.com/problems/design-parking-system/description/) |3|
+| 36| under ground system | Easy | [Problem & Submission](https://leetcode.com/problems/design-underground-system/description/) |3|
+| 37| design-browser-history| Easy | [Problem Link](https://leetcode.com/problems/design-browser-history/description/) |3|
+| 38| design-hashset| Easy | [Problem Link](https://leetcode.com/problems/design-hashset/description/) |3|
+| 39|throne-inheritance | Easy | [Problem & Submission](https://leetcode.com/problems/throne-inheritance/description/) |3|
+
 
 
 ## HackerRank Solutions
@@ -64,33 +64,31 @@ Direct links to my profiles and problem solutions.
 |9 | java-arraylist|[Problem Statement](https://www.hackerrank.com/challenges/java-arraylist/problem) |1|
 |10| java-comparator|[Problem Statement](https://www.hackerrank.com/challenges/java-comparator/problem) |1|
 |11 |the-birthday-bar|[Problem Statement](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|1|
-|12 |compare-the-triplets|[Problem Statement](https://www.hackerrank.com/challenges/compare-the-triplets/problem) |1|
-|13 |time-conversion|[Problem Statement](https://www.hackerrank.com/challenges/time-conversion/problem) |1|
-|14| diagonal-difference|[Problem Statement](https://www.hackerrank.com/challenges/diagonal-difference/problem) |1|
-|15|matrix-rotation-algo|[Problem Statement](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem) |1|
-|16 | maxsubarray|[Problem Statement](https://www.hackerrank.com/challenges/maxsubarray/problem)|1|
-|17 |alternating-characters|[Problem Statement](https://www.hackerrank.com/challenges/alternating-characters/problem) |1|
-|18| string-similarity|[Problem Statement](https://www.hackerrank.com/challenges/string-similarity/problem) |1|
-|19 |two-strings|[Problem Statement](https://www.hackerrank.com/challenges/two-strings/problem) |1|
-|20|mars-exploration|[Problem Statement](https://www.hackerrank.com/challenges/mars-exploration/problem) |1|
-|21 |palindrome-index|[Problem Statement](https://www.hackerrank.com/challenges/palindrome-index/problem) |1|
+|12 |compare-the-triplets|[Problem Statement](https://www.hackerrank.com/challenges/compare-the-triplets/problem) |2|
+|13 |time-conversion|[Problem Statement](https://www.hackerrank.com/challenges/time-conversion/problem) |2|
+|14| diagonal-difference|[Problem Statement](https://www.hackerrank.com/challenges/diagonal-difference/problem) |2|
+|15|matrix-rotation-algo|[Problem Statement](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem) |2|
+|16 | maxsubarray|[Problem Statement](https://www.hackerrank.com/challenges/maxsubarray/problem)|2|
+|17 |alternating-characters|[Problem Statement](https://www.hackerrank.com/challenges/alternating-characters/problem) |2|
+|18| string-similarity|[Problem Statement](https://www.hackerrank.com/challenges/string-similarity/problem) |2|
+|19 |two-strings|[Problem Statement](https://www.hackerrank.com/challenges/two-strings/problem) |2|
+|20|mars-exploration|[Problem Statement](https://www.hackerrank.com/challenges/mars-exploration/problem) |2|
+|21 |palindrome-index|[Problem Statement](https://www.hackerrank.com/challenges/palindrome-index/problem) |2|
 |22 | circular-palindromes|[Problem Statement](https://www.hackerrank.com/challenges/circular-palindromes/problem) |2|
 |23 |java-instanceof-keyword|[Problem Statement](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem) |3|
 |24| grading|[Problem Statement](https://www.hackerrank.com/challenges/grading/problem) |3|
-|25|java-inheritance-1|[Problem Statement](https://www.hackerrank.com/challenges/java-inheritance-1/problem) |1|
-|26 | java-inheritance-2|[Problem Statement](https://www.hackerrank.com/challenges/java-inheritance-2/problem)|1|
-|27|java-generics|[Problem Statement](https://www.hackerrank.com/challenges/java-generics/problem) |1|
-|28| java-method-overriding|[Problem Statement](https://www.hackerrank.com/challenges/java-method-overriding/problem) |1|
-|29 | java-method-overriding-2|[Problem Statement](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem) |1|
-|30|java-singleton|[Problem Statement](https://www.hackerrank.com/challenges/java-singleton/problem) |1|
-|31 |java-vistor-pattern|[Problem Statement](https://www.hackerrank.com/challenges/java-vistor-pattern/problem) |1|
-|32 | java-iterator|[Problem Statement](https://www.hackerrank.com/challenges/java-iterator/problem) |2|
-|33 |java-interface|[Problem Statement](https://www.hackerrank.com/challenges/java-interface/problem) |1|
-|34|java-hashset|[Problem Statement](https://www.hackerrank.com/challenges/java-hashset/problem) |1|
-|35|java-factory|[Problem Statement](https://www.hackerrank.com/challenges/java-factory/problem) |1|
-|36 |java-exception-handling|[Problem Statement](https://www.hackerrank.com/challenges/java-exception-handling/problem)|1|
-|37|java-exception-handling-try-catch|[Problem Statement](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem) |1|
-|28| java-method-overriding|[Problem Statement](https://www.hackerrank.com/challenges/java-method-overriding/problem) |1|
-|29 | java-method-overriding-2|[Problem Statement](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem) |1|
-|30|java-singleton|[Problem Statement](https://www.hackerrank.com/challenges/java-singleton/problem) |1|
+|25|java-inheritance-1|[Problem Statement](https://www.hackerrank.com/challenges/java-inheritance-1/problem) |3|
+|26 | java-inheritance-2|[Problem Statement](https://www.hackerrank.com/challenges/java-inheritance-2/problem)|3|
+|27|java-generics|[Problem Statement](https://www.hackerrank.com/challenges/java-generics/problem) |3|
+|28| java-method-overriding|[Problem Statement](https://www.hackerrank.com/challenges/java-method-overriding/problem) |3|
+|29 | java-method-overriding-2|[Problem Statement](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem) |3|
+|30|java-singleton|[Problem Statement](https://www.hackerrank.com/challenges/java-singleton/problem) |3|
+|31 |java-vistor-pattern|[Problem Statement](https://www.hackerrank.com/challenges/java-vistor-pattern/problem) |3|
+|32 | java-iterator|[Problem Statement](https://www.hackerrank.com/challenges/java-iterator/problem) |3|
+|33 |java-interface|[Problem Statement](https://www.hackerrank.com/challenges/java-interface/problem) |3|
+|34|java-hashset|[Problem Statement](https://www.hackerrank.com/challenges/java-hashset/problem) |3|
+|35|java-factory|[Problem Statement](https://www.hackerrank.com/challenges/java-factory/problem) |3|
+|36 |java-exception-handling|[Problem Statement](https://www.hackerrank.com/challenges/java-exception-handling/problem)|3|
+|37|java-exception-handling-try-catch|[Problem Statement](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem) |3|
+
 
